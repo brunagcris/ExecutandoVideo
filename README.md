@@ -5,7 +5,9 @@ Um aplicativo Android desenvolvido em Java que simula uma interface de streaming
 ## Funcionalidades
 
 -Design de Página de Streaming: Interface que imita a aparência de uma plataforma de streaming, com uma área dedicada para exibição do vídeo.
+
 -Reprodução de Vídeo: Permite assistir a uma prévia do episódio de "Rick and Morty" ao clicar no botão de reprodução.
+
 -Controles de Vídeo: Inclui controles padrão como pausar, reproduzir e ajustar o volume para uma experiência de visualização personalizada
 
 ## Tecnologias Utilizadas
